@@ -1,3 +1,0 @@
-https://github.com/LeviEyal/EX4-Dynamic-allocations-and-structs.git
-9f46a80d3c292a7b20d58eed68b827143807c31d
-203249073 
